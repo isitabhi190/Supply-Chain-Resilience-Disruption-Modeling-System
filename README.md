@@ -1,4 +1,45 @@
+# Advanced Supply Chain Resilience and Disruption Modeling
 
+## Enterprise Grade Predictive and Prescriptive Analytics System
+
+---
+
+## Project Overview
+
+This project implements a comprehensive end to end supply chain analytics system designed to analyze, predict, and mitigate delivery delays and operational risks in a global supply chain. The system integrates data engineering, machine learning, network science, optimization, risk simulation, and scenario analysis into a single reproducible pipeline.
+
+The objective of the project is not limited to delay prediction. It aims to explain delay drivers, quantify uncertainty, evaluate structural vulnerabilities, and recommend actionable strategies for improving supply chain resilience under normal and disrupted conditions.
+
+---
+
+## Key Objectives
+
+- Predict shipment delays using advanced machine learning models  
+- Engineer temporal, structural, and risk based features  
+- Model supply chain structure using graph theory  
+- Quantify inventory and service level risk using Monte Carlo simulation  
+- Optimize service levels under competing cost and risk objectives  
+- Evaluate resilience under multiple disruption scenarios  
+- Generate executive level dashboards and reproducible reports  
+
+---
+
+## Repository Structure
+
+├── README.md
+├── notebooks/
+│ └── SCRM.ipynb
+├── data/
+│ ├── supply_chain_advanced_data.csv
+│ ├── feature_importance.csv
+│ ├── scenario_analysis.csv
+│ ├── optimized_routes.csv
+│ └── supplier_analysis.csv
+├── outputs/
+│ ├── executive_dashboard.png
+│ ├── network_topology.png
+│ ├── monte_carlo_simulation.png
+│ └── supply_chain_full_execution_report.pdf
 ---
 
 ## Dataset Description
