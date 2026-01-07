@@ -31,15 +31,15 @@ The objective of the project is not limited to delay prediction. It aims to expl
 │ └── SCRM.ipynb
 ├── data/
 │ ├── supply_chain_advanced_data.csv
-│ ├── feature_importance.csv
-│ ├── scenario_analysis.csv
-│ ├── optimized_routes.csv
-│ └── supplier_analysis.csv
 ├── outputs/
 │ ├── executive_dashboard.png
 │ ├── network_topology.png
 │ ├── monte_carlo_simulation.png
 │ └── supply_chain_full_execution_report.pdf
+│ ├── feature_importance.csv
+│ ├── scenario_analysis.csv
+│ ├── optimized_routes.csv
+│ └── supplier_analysis.csv
 ---
 
 ## Dataset Description
