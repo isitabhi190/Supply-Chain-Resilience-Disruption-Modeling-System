@@ -244,9 +244,10 @@ The report serves as a reproducible and audit ready artifact.
 2. Install required Python libraries  
    - pandas, numpy, matplotlib  
    - scikit learn, xgboost  
-   - networkx, statsmodels  
-3. Run all cells sequentially  
-4. Outputs are automatically saved to the outputs directory  
+   - networkx, statsmodels
+3. Add data to your working environment
+4. Run all cells sequentially  
+5. Outputs are automatically saved to the outputs directory  
 
 ---
 
